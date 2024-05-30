@@ -1,2 +1,2 @@
 # odin-recipes
-This is html practice for a recipes site. With this i will be learning some html basics like puutin an image putting links and writing pharagraphs etc.
+I’m practicing HTML for a recipe website. Through this project, I’ll be learning fundamental HTML concepts such as adding images, creating links, and formatting paragraphs.”
